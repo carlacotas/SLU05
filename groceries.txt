@@ -5,7 +5,7 @@
 - Bread
 - Cooking oil
 - Milk
-- Eggs
+- Chocolate Eggs
 - Cheese
 - Onions
 - Salt
@@ -15,3 +15,4 @@
 - Tomatoes
 - Green lentils
 - Butter
+- Eggs
